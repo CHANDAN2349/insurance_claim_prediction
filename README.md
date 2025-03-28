@@ -1,4 +1,4 @@
-Thought for 2 seconds### Data-Driven Claim Severity Prediction for Insurance Risk Management
+### Data-Driven Claim Severity Prediction for Insurance Risk Management
 
 ## Problem Statement
 
@@ -30,7 +30,7 @@ The deployed application includes:
 2. **Data Exploration**: Visualizations and statistical analysis
 3. **Model Training & Evaluation**: Model selection, training, and comparison
 4. **Prediction Dashboard**: Policy lookup and manual entry options for claim prediction
-
+5. **Link**: https://insuranceclaimprediction-chandan-n.streamlit.app/
 
 ## How to Run
 
@@ -48,17 +48,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Author
-
-**Chandan N**
-
-College: Christ University
-
-Email: [chandan.n@msds.christuniversity.in](mailto:chandan.n@msds.christuniversity.in)
-
-LinkedIn: [https://www.linkedin.com/in/chandan2349/](https://www.linkedin.com/in/chandan2349/)
-
-GitHub: [https://github.com/CHANDAN2349](https://github.com/CHANDAN2349)
 
 ## Future Work
 
